@@ -15,3 +15,10 @@ Projeto para organizar e entregar os aprendizados obtidos no laboratório da DIO
 4. Link do banco de dados blob a IA para que ela possa ter essa informação durante as buscas;
 5. Consulta da informação via prompt, indicando a funcionalidade da IA e/ou a análise que ela deverá fazer em cima dos dados (ex: análise de sentimentos).
 
+## lab-3-generative-ai
+1. Explicação rápida sobre necessidade de pensar em cenários negativos ao implementar a IA;
+2. Potêncial de uso da ferramenta em várias áreas de atuação;
+3. Demonstração de mensagens genéricas criadas sem uma base especifica;
+4. Demonstração de criação de textos e imagens no copilot;
+5. Regras para utilizar a IA da OpenAI na azure incluem o preenchimento de um formulário onde é exigido o uso de e-mail corporativo.
+
